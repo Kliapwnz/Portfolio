@@ -1,4 +1,13 @@
-.mainBlock{
+.mainBlock {
     height: 100vh;
-    background-color: #ffd4f0;
+    background-color: #d5c2cf;
+}
+
+.greetings {
+    width: 300px;
+    background-color: #e8e8e8;
+}
+
+.photo {
+
 }
