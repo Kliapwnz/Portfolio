@@ -3,6 +3,11 @@
     background-color: #d5c2cf;
 }
 
+.container {
+    border: 1px solid;
+    height: 100%;
+}
+
 .greetings {
     width: 300px;
     background-color: #e8e8e8;
