@@ -4,5 +4,15 @@
 }
 
 .skillsContainer {
-    align-items: flex-start;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.title {
+    background-color: #b8dc8c
+}
+
+.skills {
+    border: 1px solid;
+    width: 100%;
 }
