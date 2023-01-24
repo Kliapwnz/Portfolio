@@ -2,3 +2,7 @@
     height: 100vh;
     background-color: #9bb774;
 }
+
+.skillsContainer {
+    align-items: flex-start;
+}
