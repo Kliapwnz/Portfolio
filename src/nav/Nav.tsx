@@ -3,7 +3,7 @@ import s from "./Nav.module.css";
 
 export const Nav = () => {
     return (
-        <div className={s.header}>
+        <div className={s.nav}>
 
         </div>
     );
